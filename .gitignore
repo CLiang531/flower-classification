@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+
+out/*
+!out/.gitkeep
+
+data/Flower_Data/train/*
+!data/Flower_Data/train/.gitkeep
+
+data/Flower_Data/test/original/*
+!data/Flower_Data/test/original/.gitkeep
+
+data/Flower_Data/test/resized/*
+!data/Flower_Data/test/resized/.gitkeep
+
+data/Flower_Data/val/*
+!data/Flower_Data/val/.gitkeep
