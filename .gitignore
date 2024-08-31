@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+out/*
+!out/.gitkeep
+data/train/*
+data/test/original/*
+data/test/resized/*
+data/val/*
