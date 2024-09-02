@@ -1,0 +1,9 @@
+camera:
+  save: 'out'
+
+model:
+  img_height: 256
+  img_width: 256
+  paths:
+    labels_path: 'data/Flower_Data/class_names.txt'
+    load_model_path: 'model'
