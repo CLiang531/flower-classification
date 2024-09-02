@@ -15,3 +15,8 @@ data/Flower_Data/test/resized/*
 
 data/Flower_Data/val/*
 !data/Flower_Data/val/.gitkeep
+
+# model sizes are too large to commit
+model/*_resnet50*
+model/*_vgg16*
+model/*_inceptionv3*
