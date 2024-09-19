@@ -20,3 +20,5 @@ data/Flower_Data/val/*
 model/*_resnet50*
 model/*_vgg16*
 model/*_inceptionv3*
+model/flower_classification_model__pytorch_v3*
+model/flower_classification_model__pytorch_v6*
