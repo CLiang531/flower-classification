@@ -8,6 +8,6 @@ After saving these models, we can then run ``engine.py`` in the ``src/`` folder 
 Keep in mind that the information in the ``config.yaml`` file must be correct.
 
 ## Data
-The data for this project can be found at: ``https://www.kaggle.com/datasets/marquis03/flower-classification/code``. However, the folder ``test/`` under ``data/`` is filled with personally taken images that do not appear within the kaggle dataset. The process of resizing these images can be found in the ``img_resize_util.ipynb`` notebook under ``notebooks/``.
+The data for this project can be found at: ``https://www.kaggle.com/datasets/marquis03/flower-classification/data``. However, the folder ``test/`` under ``data/`` is filled with personally taken images that do not appear within the kaggle dataset. The process of resizing these images can be found in the ``img_resize_util.ipynb`` notebook under ``notebooks/``.
 
 Since these are personal images, some flowers may not align with the species of flower that the kaggle dataset provides for training and evaluation.
